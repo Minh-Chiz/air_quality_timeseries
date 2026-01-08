@@ -7,7 +7,7 @@ Chào mừng đến với repository của nhóm chúng mình. Dự án này th�
 
 ---
 
-## 👥 Thành viên Nhóm [...]
+## 👥 Thành viên Nhóm
 
 | STT | Họ và Tên | Mã Sinh Viên | Vai trò |
 |---|---|---|---|
@@ -43,5 +43,6 @@ air_quality_timeseries/
 ├── run_papermill.py          # Script chạy tự động toàn bộ pipeline
 ├── requirements.txt          # Danh sách thư viện cần thiết
 └── README.md                 # Thông tin dự án
+
 
 
