@@ -11,10 +11,10 @@ Chào mừng đến với repository của nhóm chúng mình. Dự án này th�
 
 | STT | Họ và Tên | Mã Sinh Viên | Vai trò |
 |---|---|---|---|
-| 1 | [Vũ Ngọc Bảo] | [Mã SV] | Trưởng nhóm, Code chính |
-| 2 | [Nguyễn Đức Mạnh] | [Mã SV] | Phân tích EDA, Viết báo cáo |
-| 3 | [Hoàng Minh Chí] | [1771020096] | Chạy mô hình |
-| 4 | [Trần Tiến Quang] | [Mã SV] | Viết báo cáo |
+| 1 | Vũ Ngọc Bảo | 1771020079 | Trưởng nhóm, Code chính |
+| 2 | Nguyễn Đức Mạnh | 1771020456 | Phân tích EDA, Viết báo cáo |
+| 3 | Hoàng Minh Chí | 1771020096 | Chạy mô hình |
+| 4 | Trần Tiến Quang | 1771020569 | Viết báo cáo |
 
 ---
 
@@ -46,3 +46,4 @@ air_quality_timeseries/
 ├── run_papermill.py          # Script chạy tự động toàn bộ pipeline
 ├── requirements.txt          # Danh sách thư viện cần thiết
 └── README.md                 # Thông tin dự án
+
