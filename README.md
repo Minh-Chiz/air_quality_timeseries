@@ -25,9 +25,6 @@ Dự án đóng vai trò Data Scientist thực thụ để giải quyết bài t
 2.  **Regression Baseline:** Xây dựng mô hình hồi quy dự báo PM2.5 dựa trên các biến trễ (Lag features) và yếu tố thời gian.
 3.  **ARIMA Forecasting:** Phân tích chuỗi thời gian chuyên sâu và chọn tham số $(p,d,q)$ tối ưu để dự báo.
 
-**Chủ đề nâng cao (FIT-DNU CONQUER):**
-*Nhóm chọn chủ đề:* **[Điền tên chủ đề: VD: Chủ đề 1 - So sánh Regression vs ARIMA]**
-
 ---
 
 ## 📂 Cấu trúc Dự án
@@ -46,4 +43,5 @@ air_quality_timeseries/
 ├── run_papermill.py          # Script chạy tự động toàn bộ pipeline
 ├── requirements.txt          # Danh sách thư viện cần thiết
 └── README.md                 # Thông tin dự án
+
 
