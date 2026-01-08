@@ -1,4 +1,8 @@
 # Lab 4: Dự đoán Chất lượng Không khí Beijing (PM2.5)
+**Môn học:** Khai phá dữ liệu (Data Mining)  
+**Nhóm:** 8  
+**Giảng viên:** ThS. Lê Thị Thùy Trang  
+
 ## Học phần: Data Mining - FIT DNU
 
 Chào mừng đến với repository của nhóm chúng mình. Dự án này thực hiện phân tích và dự báo nồng độ bụi mịn PM2.5 tại Bắc Kinh sử dụng pipeline chuẩn: **EDA -> Regression -> ARIMA**, được tự động hóa bằng Papermill.
@@ -43,6 +47,7 @@ air_quality_timeseries/
 ├── run_papermill.py          # Script chạy tự động toàn bộ pipeline
 ├── requirements.txt          # Danh sách thư viện cần thiết
 └── README.md                 # Thông tin dự án
+
 
 
 
